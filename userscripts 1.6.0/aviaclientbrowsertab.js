@@ -1,5 +1,5 @@
 const TITLE = "Avia Client";
-const ICON_URL = "https://raw.githubusercontent.com/AvaLilac/Ava-Client/refs/heads/main/userscript/icon.png"; // <-- change this
+const ICON_URL = "https://raw.githubusercontent.com/AvaLilac/for-desktop/refs/heads/main/avia_assets/icon.png"; // <-- change this
 
 document.title = TITLE;
 
